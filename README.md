@@ -2,7 +2,7 @@
 
 This example shows you how to use [importmaps](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script/type/importmap) to map dependencies from bare imports to url-imports.
 
-Using an import map in Layout.astro you can see that react and react-dom are mapped to url imports from en external CDN ([esm.sh](https://esm.sh/)).
+Using an import map in Layout.astro you can see that react and react-dom are mapped to url imports from an external CDN ([esm.sh](https://esm.sh/)).
 
 ```html
 <script type="importmap">
