@@ -23,4 +23,4 @@ if (target === "client") {
 }
 ```
 
-Note that the packages are imported over Http3 and gets cached in the browser. This means that you don't have to donwload react and react-dom on the second page reload.
+Note that the packages are imported over Http3 and gets cached in the browser. This means that you don't have to download react and react-dom on the second page reload.
