@@ -1,5 +1,3 @@
-# astro-importmaps-runtime
-
 # astro-importmaps
 
 This example shows you how to use importmaps to map dependencies from bare imports to url-imports. The dependencies in this case are react and react-dom and they are imported from [esm.sh](https://esm.sh/).
